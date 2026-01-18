@@ -1,20 +1,21 @@
-# ⚖️ LICENCIA SOBERANA HORMIGASAIS - ACCESO PÚBLICO CONTROLADO
-# VERSIÓN: 1.2.1 ACORAZADA (BSL-BASED)
+# ⚖️ LICENCIA DE PROTOCOLO M2M HORMIGASAIS (BSL 1.1 + CLHQ-INDUSTRIAL)
+# VERSIÓN: 1.2.1 ACORAZADA
 # AUTORIDAD: CRISTHIAM LEONARDO HERNÁNDEZ QUIÑONEZ (CLHQ)
 
 **COPYRIGHT CONSECUTIVO © 2024-2026 - TODOS LOS DERECHOS RESERVADOS**
 
-## 1. REVOCACIÓN DE DOMINIO PÚBLICO
-Este repositorio ha sido re-clasificado. El autor REVOCA cualquier dedicación previa al dominio público (CC0). Este código ahora está bajo la protección de la Licencia de Fuente Comercial (BSL) adaptada para la soberanía de datos.
+## 1. PROTECCIÓN DE COMUNICACIÓN M2M
+Este módulo gestiona la capa de transacciones binarias entre agentes autónomos. Se prohíbe su implementación en entornos de producción industrial o comercial que excedan el uso de "Prueba de Concepto" (PoC) sin una Licencia Comercial LBH activa.
 
-## 2. PERMISOS DE LA COMUNIDAD
-Se permite la copia y modificación para fines no comerciales, investigación y educación. Cualquier uso en sistemas productivos o comerciales requiere una Licencia Maestra LBH.
+## 2. RESTRICCIONES DE VENTA Y SUB-LICENCIAMIENTO
+A diferencia de la licencia anterior (MIT), esta licencia PROHÍBE explícitamente la venta, sub-licenciamiento o redistribución comercial del motor M2M sin autorización expresa del Ingeniero titular.
 
-## 3. IDENTIDAD OBLIGATORIA
-Toda distribución debe mantener el crédito inalterable a:
-**Ingeniero Cristhiam Leonardo Hernández Quiñonez**
-Desarrollador del Lenguaje-Binario-HormigasAIS (LBH).
+## 3. SELLO DE SOBERANÍA BINARIA
+Toda ejecución de este protocolo debe portar el identificador del autor en el encabezado de los paquetes de datos:
+**Ing. Cristhiam Leonardo Hernández Quiñonez | CLHQ**
 
-[🐜 LBH-PUBLIC-SHIELD]
-IDENTIDAD: CLHQ-MASTER-ENGINEER
-VERIFICACIÓN: $(printf "CLHQ-PUBLIC-RECOVERY-2026" | sha256sum | cut -c1-32)
+[🐜 LBH-M2M-ENGINE]
+STATUS: INDUSTRIAL_PROTECTION_ON
+VALIDACIÓN: $(printf "CLHQ-M2M-2026-SOVEREIGN" | sha256sum | cut -c1-32)
+
+"EL LENGUAJE DE LAS MÁQUINAS DEBE SER SOBERANO, O NO SERÁ."
