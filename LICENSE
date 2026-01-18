@@ -1,21 +1,23 @@
-# ⚖️ LICENCIA DE PROTOCOLO M2M HORMIGASAIS (BSL 1.1 + CLHQ-INDUSTRIAL)
+# ⚖️ LICENCIA DE INFRAESTRUCTURA HORMIGASAIS (BSL 1.1 + CLHQ-MASTER)
 # VERSIÓN: 1.2.1 ACORAZADA
 # AUTORIDAD: CRISTHIAM LEONARDO HERNÁNDEZ QUIÑONEZ (CLHQ)
 
 **COPYRIGHT CONSECUTIVO © 2024-2026 - TODOS LOS DERECHOS RESERVADOS**
 
-## 1. PROTECCIÓN DE COMUNICACIÓN M2M
-Este módulo gestiona la capa de transacciones binarias entre agentes autónomos. Se prohíbe su implementación en entornos de producción industrial o comercial que excedan el uso de "Prueba de Concepto" (PoC) sin una Licencia Comercial LBH activa.
+## 1. DEFINICIÓN DE LA INFRAESTRUCTURA
+Este repositorio constituye el núcleo de identidad y orquestación de HormigasAIS. Su uso, copia o distribución está sujeto al modelo de soberanía de datos y eficiencia energética definido por el autor.
 
-## 2. RESTRICCIONES DE VENTA Y SUB-LICENCIAMIENTO
-A diferencia de la licencia anterior (MIT), esta licencia PROHÍBE explícitamente la venta, sub-licenciamiento o redistribución comercial del motor M2M sin autorización expresa del Ingeniero titular.
+## 2. RESTRICCIÓN DE USO COMERCIAL
+Queda terminantemente prohibido el uso de la marca "HormigasAIS", sus scripts de automatización y su lógica de "Colonia de Hormigas" para fines comerciales o industriales sin una Licencia Comercial otorgada por el Ingeniero Cristhiam Leonardo Hernández Quiñonez.
 
-## 3. SELLO DE SOBERANÍA BINARIA
-Toda ejecución de este protocolo debe portar el identificador del autor en el encabezado de los paquetes de datos:
-**Ing. Cristhiam Leonardo Hernández Quiñonez | CLHQ**
+## 3. IDENTIDAD PROFESIONAL
+El autor de esta obra es el:
+**Ingeniero Cristhiam Leonardo Hernández Quiñonez**
+Experto en Protocolos Inteligentes y Lenguaje Binario (LBH).
 
-[🐜 LBH-M2M-ENGINE]
-STATUS: INDUSTRIAL_PROTECTION_ON
-VALIDACIÓN: $(printf "CLHQ-M2M-2026-SOVEREIGN" | sha256sum | cut -c1-32)
+[🐜 LBH-BRAND-CORE]
+ESTADO: SOBERANÍA_PROTEGIDA
+ID_NODO: MASTER-$(date +%Y)-CLHQ
+VALIDACIÓN: $(printf "CLHQ-HORMIGASAIS-CORE" | sha256sum | cut -c1-32)
 
-"EL LENGUAJE DE LAS MÁQUINAS DEBE SER SOBERANO, O NO SERÁ."
+"LA INTELIGENCIA NO ES SOLO DATOS, ES SOBERANÍA."
