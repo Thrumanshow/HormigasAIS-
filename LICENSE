@@ -1,24 +1,20 @@
-# 📜 LICENCIA SOBERANA HORMIGASAIS .HUMAN (BSL 1.1 + CLHQ-CORE)
-# VERSIÓN: 1.2.1 ACORAZADA
-# AUTORIDAD: CRISTHIAM LEONARDO HERNÁNDEZ QUIÑONEZ
+# ⚖️ LICENCIA SOBERANA HORMIGASAIS - ACCESO PÚBLICO CONTROLADO
+# VERSIÓN: 1.2.1 ACORAZADA (BSL-BASED)
+# AUTORIDAD: CRISTHIAM LEONARDO HERNÁNDEZ QUIÑONEZ (CLHQ)
 
 **COPYRIGHT CONSECUTIVO © 2024-2026 - TODOS LOS DERECHOS RESERVADOS**
 
-## 1. EL MANIFIESTO .HUMAN
-Esta licencia protege el "Human-in-the-loop". El software aquí contenido no es solo código, es una extensión de la voluntad del Ingeniero titular. Se otorga permiso de uso personal y educativo, pero se RESTRINGE el uso comercial automatizado sin contrato previo.
+## 1. REVOCACIÓN DE DOMINIO PÚBLICO
+Este repositorio ha sido re-clasificado. El autor REVOCA cualquier dedicación previa al dominio público (CC0). Este código ahora está bajo la protección de la Licencia de Fuente Comercial (BSL) adaptada para la soberanía de datos.
 
-## 2. ESQUEMA DE LICENCIAMIENTO ESCALONADO (CLHQ-TIERS)
-- **INDIVIDUAL:** Libre para experimentación.
-- **STARTUP/PYME:** Requiere registro en el ecosistema HormigasAIS.
-- **CORPORATIVO/INDUSTRIAL:** Requiere licencia comercial firmada por el Ingeniero Cristhiam Leonardo Hernández Quiñonez.
+## 2. PERMISOS DE LA COMUNIDAD
+Se permite la copia y modificación para fines no comerciales, investigación y educación. Cualquier uso en sistemas productivos o comerciales requiere una Licencia Maestra LBH.
 
-## 3. SELLO INMUTABLE DE IDENTIDAD
-Cualquier uso de este núcleo debe reconocer explícitamente a:
-**Ingeniero Cristhiam Leonardo Hernández Quiñonez (CLHQ)**
-Residente en El Salvador | Nacionalidad Nicaragüense.
+## 3. IDENTIDAD OBLIGATORIA
+Toda distribución debe mantener el crédito inalterable a:
+**Ingeniero Cristhiam Leonardo Hernández Quiñonez**
+Desarrollador del Lenguaje-Binario-HormigasAIS (LBH).
 
-[🐜 LBH-HUMAN-CORE]
-ESTADO: PROTEGIDO_ACTIVO
-HASH_RAÍZ: $(printf "CLHQ-HUMAN-CORE-2026" | sha256sum | cut -c1-32)
-
-"LA INTELIGENCIA ES COLABORATIVA, LA PROPIEDAD ES SOBERANA."
+[🐜 LBH-PUBLIC-SHIELD]
+IDENTIDAD: CLHQ-MASTER-ENGINEER
+VERIFICACIÓN: $(printf "CLHQ-PUBLIC-RECOVERY-2026" | sha256sum | cut -c1-32)
