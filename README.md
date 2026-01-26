@@ -1,11 +1,19 @@
-# 🐜 HormigasAIS - Nodo XOXO-
-### Interfaz de Inteligencia Distribuida y Soberana
+## 🏛️ Estado del Repositorio, Gobernanza y Autoridad
 
-Este repositorio ha sido auditado y reclamado por la colonia bajo el protocolo **LBH (Lenguaje Binario HormigasAIS)**. 
+Este repositorio es un **fork técnico y derivado experimental** relacionado con el ecosistema HormigasAIS.
 
-**Estado:** Operativo en el Borde (Edge Computing)
-**Soberanía:** lbh.human (Cristhiam Leonardo Hernández Quiñonez)
-**Propósito:** Visualización de eventos de seguridad y automatización resiliente.
+La bifurcación, el uso del nombre, la visibilidad, las contribuciones o la actividad técnica de este repositorio **no confieren**, bajo ninguna circunstancia, autoridad, representación institucional, legitimidad operativa ni reconocimiento como nodo oficial del ecosistema HormigasAIS.
 
----
-*Protegiendo el territorio desde San Miguel, El Salvador.*
+Este repositorio **no constituye** un nodo, entidad gobernante, órgano decisorio ni repositorio normativo del ecosistema.
+
+El repositorio institucional y normativo principal de HormigasAIS es:
+
+🏛️ https://github.com/HormigasAIS/HormigasAIS
+
+Toda interpretación sobre gobernanza, soberanía, roles, uso del nombre HormigasAIS y relación entre repositorios queda **expresamente sujeta y subordinada** al documento normativo único del ecosistema:
+
+📜 **GOVERNANCE.md**  
+Modelo formal de gobernanza, soberanía y legitimidad operativa del ecosistema HormigasAIS  
+https://github.com/HormigasAIS/HormigasAIS/blob/main/GOVERNANCE.md
+
+En caso de conflicto entre este README y dicho documento, **prevalece GOVERNANCE.md**.
